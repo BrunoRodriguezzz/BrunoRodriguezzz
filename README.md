@@ -54,6 +54,18 @@
 
 ###
 
+## Check my projects:
+
+[MetaMapa](https://github.com/BrunoRodriguezzz/tp-dsi) -> Java | Springboot | Hibernate | JPA | Microservices
+
+[Tienda Sol](https://github.com/BrunoRodriguezzz/Tp-desarrollo) -> JavaScript | Express | Next.js | Mongoose | SPA
+
+[Master of Files](https://github.com/BrunoRodriguezzz/Tp-operativos-2C) -> C | Memory | Planification | Threads | Linux
+
+[Revenge of the Cth](https://github.com/BrunoRodriguezzz/TP-OperativosC) ->  C | Memory | Planification | Threads | Linux
+
+---
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
